@@ -1,0 +1,6 @@
+{
+  "name": "শেষ বাঁচা 3D",
+  "description": "শেষ বাঁচা 3D (Last Survivor 3D) - রোমাঞ্চকর 3D ব্যাটল রয়্যাল সারভাইভাল অ্যাকশন গেম। যুদ্ধক্ষেত্র, এয়ারড্রপ, শত্রু সৈন্য, বোমাবর্ষণ এবং শেষ বেঁচে থাকার লড়াই!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
